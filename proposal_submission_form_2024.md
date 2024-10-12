@@ -42,5 +42,7 @@
 
 #### Team Coordinator GitHub Username: `AHugeHotPocket`
 
-#### Team Members `Kaden Hernadez: 2JZKaden Logan Songvilay: LoganSongvilay Quan Paulo Mitra: JPauloM3 Ahmed Yusuf: AHugeHotPocket`
+#### Team Members `Kaden Hernadez: 2JZKaden Logan Songvilay: LoganSongvilay 
+Quan Paulo Mitra: JPauloM3 
+Ahmed Yusuf: AHugeHotPocket`
 
