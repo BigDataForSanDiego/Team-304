@@ -5,7 +5,7 @@
 #### Team Name: `Team SYH`    
   
 #### Your teamâ€™s hackathon idea in One sentence:
-##### `YOUR ONE SENTENCE HERE`
+##### `Our team is developing an app that can help those with chronic diseases and those who live in food deserts receive the food needed to meet their required food restrictions/dietary needs.`
 
 
 #### A visual
